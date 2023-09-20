@@ -1,2 +1,2 @@
 # localStorageReduxApp
-tjis a little practice using redux 
+this is a little practice using redux 
